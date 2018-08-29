@@ -17,6 +17,8 @@ These will be timed activities.  Please note the timer and be sure to use your t
 Your group will be both a "Customer" and a "Designer".  First you'll prepare for your Customer role.  Browse through the "Mission" cards and select the one that interests you. You may use either the specific example on the card or be creative and try to develop another example that fits the goal given on the card. Any discussions with  Designers should not reveal the specific example you have in mind.  Try to really think about the example and how it would fit into your life as a customer. Try to build an entire story around it.  Make sure you have a clear vision in mind.
 
 ***Q1.1 Briefly describe your Mission:***
+## Description
+Super shopper-Notify a company when one of their products is bought by a consumer or another company.  This should help maximize efficiency by notifying when the company needs to update their inventory.
 
 ## Part 1.2: Finding a Designer/Customer (3 minutes)
 
@@ -26,7 +28,11 @@ Find another group to work with. The other group should be students who neither 
 
 (7 minutes) The Designer's first step in design thinking is empathizing with the person who the design is for.  The Designer should have a conversation with the Customer to get to know them and to ask about the Customer's needs and interests.  The goal is to try to identify the customer's need, *not a specific solution*.  The Designers who are going first should interview the customer and try to figure out the underlying need they'd like to satisfy.  
 
-***Q1.2 Share some notes from your interview here and try to describe the "need" with a very brief description:***
+***Q1.2 Share some notes from your interview here and try to describe the "need" with a very brief description:
+
+## Description - Frequently lose bike or get it stolen and therefore need a way to track it.
+
+***
 
 (6 minutes) Reverse roles. The Customers are now Designers and vice versa.  Repeat the interview process. (Designers, complete the question above in that space)
 
@@ -36,13 +42,31 @@ Return to your original locations.  In this step all groups will act like Design
 
 ***Q1.3 Briefly describe your solutions (use a list) and any strengths/weaknesses you see.***
 
+## solutions
+1.  Give them a good lock
+  * Lock has a sensor to see whether it is closed or not
+1.  Implant a tracker in the frame of the bike so it is not exposed to the public and cannot get stolen.  
+1.  Both ideas work through theoretical apps
+
 ## Part 1.5: Feedback (10 minutes total)
 
 Meet with your corresponding group again. And, again, select which set will be Designers first.
 
 (5 minutes) Designers:  Present your solutions and get the Customers' feedback.  As a Designer you should be open to any initial reactions.  Customers: think carefully about your original "need" and try to give both pros and cons of the proposed solutions.
 
-***Q1.4 Designers: Briefly summarize their feedback for each solution:***
+***Q1.4 Designers: Briefly summarize their feedback for each solution:
+
+Feedback for our ideas:
+   their complaint that it was too expensive.
+   has potential for the future and they could want equity
+***
+
+## Feedback
+1.  Scale that gives an alert when something is taken from the inventory
+1.  Scanning items through an app or using a spreadsheet
+  * Phases
+    * Phase 1 is keeping detailed excel spreadsheets
+    * Phase 2 is rolling out an app
 
 (4 minutes): Reverse roles.  Designers: Fill in your answers to the question above.
 
@@ -52,13 +76,21 @@ Return to your original seats.
 
 In this phase everyone is thinking like a Designer.  Design thinking also relies on iterative refinement of work to suite the Customer.  Are there ways it could be improved?  Discuss the feedback and refine/update your work if needed.
 
-***Q1.5 Based on the feedback, how might you change your solution?***
+***Q1.5 Based on the feedback, how might you change your solution?
+
+We would need to find lower cost solutions. We could do this by using low energy parts and cheaper parts like a Particle.
+
+***
 
 ## Part 1.7 Evaluation (5 minutes)
 
 Switch back to being a Customer and thinking about the product you want and the need it should meet.  Pick three (3) Criteria cards that are most important to you and order them from most important to least important.
 
 ***Q1.6 List your three top Criteria:***
+
+1. User Friendly
+1. Market potential
+1. Attraction
 
 ## Part 1.8: More Feedback (10 minutes total)
 
@@ -68,7 +100,13 @@ Meet with your corresponding group again. And, again, select which set will be D
 
 ***Q1.7 Briefly summarize your findings as a Designer.  Is the customer happy with your work?  How could it be further improved?***
 
-***Q1.8 Briefly summarize your findings as a Customer.  Will the proposed solution meet your needs?  Was it substantially different than what you may have initially envisioned?***
+** They are through the roof with our unbelievably sleek and creative design. It could be further improved if we add a money back guarantee they would be more inclined to choose our new smart lock over a basic lock and tracker.
+
+***Q1.8 Briefly summarize your findings as a Customer.  Will the proposed solution meet your needs?  Was it substantially different than what you may have initially envisioned?
+
+The solutions will satisfy our need and will give us future proof technology that will help us grow and make us an even better company.
+
+***
 
 (5 minutes): Reverse roles.  Designers and Customers: Fill in your answers to the question above.
 
@@ -83,11 +121,28 @@ Part of the goal of today's studio was to provide you some "menus" for:
 
 ***Q2.1 Without reviewing the cards, provide three examples of each type of card along with a brief description (try your best).  Add your answers as a sub-list for each type here:***
 - Criteria
+  * user Friendly - easy to use
+  * attractive - well made
+  * market - will other people buy it
 - Things
+  * device - like a phone
+  * electronics - headphones
+  *
 - Services
+  * automation - do it automatically
+  * music - plays music while it works
+  *
 - Feedback
+  * does it work?
+  *
 - Human Actions
+  * Sending an email
+  * Playing music
+  *
 - Missions
+  * Saving products
+  * New product lines
+  * Increased efficiency
 
 ### Contrast
 
